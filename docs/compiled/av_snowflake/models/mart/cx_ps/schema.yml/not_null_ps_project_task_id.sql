@@ -1,0 +1,11 @@
+
+    
+    
+
+
+
+select id
+from AV_EDM.AV_CX_PS.ps_project_task
+where id is null
+
+

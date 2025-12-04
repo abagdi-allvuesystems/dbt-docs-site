@@ -1,1 +1,0 @@
-select * from LANDING_AIRBYTE.JSM_ACP.ISSUES
